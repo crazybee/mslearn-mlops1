@@ -22,7 +22,6 @@ def get_data_collector() -> DataCollector:
         }
     )
 
-
 def parse_args():
     parser = argparse.ArgumentParser()
 
